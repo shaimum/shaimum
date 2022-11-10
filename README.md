@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shaimum
-- 👀 I’m interested in Game Developer
-- 🌱 I’m currently learning Game Developing
+- 👀 I’m interested in Web development
+- 🌱 I’m currently learning Web Developing
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
